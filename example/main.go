@@ -3,7 +3,7 @@ package main
 import (
   "log"
 
-  "../../openurl"
+  "github.com/darkowlzz/openurl"
 )
 
 func main() {
