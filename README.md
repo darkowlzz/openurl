@@ -1,6 +1,8 @@
 # openurl
 
-golang package for opening URLs.
+[![Build Status](https://travis-ci.org/darkowlzz/openurl.svg?branch=master)](https://travis-ci.org/darkowlzz/openurl)
+
+golang package for opening URLs in default web browser.
 
 
 ## Usage
