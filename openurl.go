@@ -1,3 +1,8 @@
+/*
+Package openurl provides a common method for opening URLs in default web
+browser across different platforms (Windows, macOS, GNU/Linux).
+*/
+
 package openurl
 
 import (
